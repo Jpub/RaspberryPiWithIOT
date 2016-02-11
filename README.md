@@ -1,7 +1,14 @@
-# RaspberryPi With IOT Book
-programs for raspberrypi book
+  
+# 사물인터넷을 품은 라즈베리 파이
+  
+ ![사물인터넷을 품은 라즈베리 파이 표지](http://image.yes24.com/momo/TopCate688/MidCate002/68712828.jpg)
+  
+**출판사** 제이펍  
+**저자명** 김성우  
+**출판일** 2016년 1월 25일  
+**페이지** 620쪽  
+**ISBN** 979-11-85890-43-2 (93000)  
 
-You can download the source via the following command.
-```shell
-git clone --recursive https://github.com/swkim01/RaspberryPiWithIOT.git
-```
+[### 도서 소개 페이지 바로 가기 ###](http://jpub.tistory.com/546)  
+
+
